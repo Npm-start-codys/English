@@ -8,7 +8,7 @@ const animals = [
   },
   { whale: "grey", legs: 4, feature: "strong trunk" },
   { duck: "red", legs: false, feature: "crawl" },
-  { snake: "white", legs: 2 },
+  { snake: "white", legs: 2, feature:"cawing" },
 ];
 
 
